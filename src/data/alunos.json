@@ -1,0 +1,32 @@
+{
+    "alunos": [
+      {
+        "nome": "Francisco Júnior",
+        "idade": 21
+      },
+      {
+        "nome": "Hedênica Morais",
+        "idade": 25
+      },
+      {
+        "nome": "Kelvin Silva",
+        "idade": 24
+      },
+      {
+        "nome": "Marina Tujimura",
+        "idade": 33
+      },
+      {
+        "nome": "Nicoli Felix",
+        "idade": 30
+      },
+      {
+        "nome": "Paloma Correa",
+        "idade": 23
+      },
+      {
+        "nome": "Thierry",
+        "idade": 30
+      }
+    ]
+  }
